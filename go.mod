@@ -5,6 +5,7 @@ go 1.24.1
 require (
 	github.com/charmbracelet/glamour v0.9.1
 	github.com/goaux/contextvalue v1.0.1
+	github.com/goaux/headline v1.0.0
 	github.com/goaux/iter v1.2.0
 	github.com/goaux/results v1.9.0
 	github.com/goaux/stacktrace/v2 v2.3.1

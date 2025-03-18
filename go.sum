@@ -29,6 +29,8 @@ github.com/dlclark/regexp2 v1.11.5 h1:Q/sSnsKerHeCkc/jSTNq1oCm7KiVgUMZRDUoRu0JQZ
 github.com/dlclark/regexp2 v1.11.5/go.mod h1:DHkYz0B9wPfa6wondMfaivmHpzrQ3v9q8cnmRbL6yW8=
 github.com/goaux/contextvalue v1.0.1 h1:YGtUhInvcNQ+nyjJ8h3oa/hNUUPhcTd5pKNluxgy3i4=
 github.com/goaux/contextvalue v1.0.1/go.mod h1:FV/2dhUZQKhLxVw5cZSAVQDYHlyQtSb545mFftE87Yc=
+github.com/goaux/headline v1.0.0 h1:TGopx/M2X6nvEU7UP76u2jKm7ZwtKBgLyeLbhhbksMI=
+github.com/goaux/headline v1.0.0/go.mod h1:mbp8J0UB9EvzkZSVEs1l3xTlS9rLmSxYsW7zyrFLAiI=
 github.com/goaux/iter v1.2.0 h1:s0S4KRx718Ll3rXww9k36Gc7uJgMIdrrquTdOlSlkww=
 github.com/goaux/iter v1.2.0/go.mod h1:LOjBwetZXsg2PZ9bjkg2V+WUrAa610N4/DpUc3FydMY=
 github.com/goaux/results v1.9.0 h1:HjLpoq2Npj0BAdxqLoJVKand34dCugKNLxOhmZePOAQ=
